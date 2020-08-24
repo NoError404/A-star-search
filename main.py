@@ -7,7 +7,7 @@ import sys
 from pygame import locals
 from screen import Screen
 from search import A_star
-
+#A star learning algorithm
 
 def main():
     pygame.init()
